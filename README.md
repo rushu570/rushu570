@@ -10,11 +10,13 @@
 
 - 🤟 I am an AI/ML enthusiast and interested in Competitive Programming.
 
--  🌱 I’m currently learning React Js
+- 🌱 I’m currently learning React Js
 
 - 👯 I’m looking to collaborate on good Industry level projects in ML
 
 - 💬 Ask me about: ML, Competitive Programming and Graphic Design.
+
+- 👨🏻‍💻 Codechef profile: https://www.codechef.com/users/rushank570
 
 - 🌐 I am member of McCarthy Lab where I am exploring the field of Artificial Intelligence and reading about new technology. https://bit.ly/3j0EA3A
 
