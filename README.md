@@ -5,7 +5,7 @@
 
 
 
--
+-->
 
 - 🔭 I’m Rushank.Thanks for dropping by! I am currently pursuing an undergraduate degree in the field of Computer Science from SRM UNIVERSITY-AP, Amaravati, Andhra Pradesh..
 
@@ -34,4 +34,3 @@
 - ![](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 - ⚡ Fun fact: I am interested in Politics ping me if you want to discuss any current issue.
-
