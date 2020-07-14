@@ -12,7 +12,7 @@
 
 -  🌱 I’m currently learning React Js
 
-- 👯 I’m looking to collaborate on CP and good Industry level projects in ML
+- 👯 I’m looking to collaborate on good Industry level projects in ML
 
 - 💬 Ask me about: ML, Competitive Programming and Graphic Design.
 
