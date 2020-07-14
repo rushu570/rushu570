@@ -34,4 +34,5 @@
 
 - ⚡ Fun fact: I am interested in Politics ping me if you want to discuss any current issue.
 
-- ![](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+ ![](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
