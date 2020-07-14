@@ -22,9 +22,9 @@
 
 - ⚡ I am highly interested in startups and currently holding a position in Executive Board of Ennovab(https://ennovab.tech/)  : It is a Entrepreneurial Innovation Lab, aims to foster the innovative and entrepreneurial thinking in the young minds of student entrepreneurs.
 
-- 🏅🏅 Winner (2nd Runner-up) at HackBout 
+- 🏅🏅 Winner (2nd Runner-up) at HackBout. Our Hack (https://devfolio.co/submissions/nurture)
 
-- 🏅🏅 Winner (1st Runner-up) at CodeBreak 1.0
+- 🏅🏅 Winner (1st Runner-up) at CodeBreak 1.0. Our Hack (https://devfolio.co/submissions/ione)
 
 - 📫 How to reach me: Email me at rushankjain833@gmail.com or start with Hi on https://www.linkedin.com/in/rushank-jain/.
 
