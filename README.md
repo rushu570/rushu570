@@ -16,9 +16,9 @@
 
 - 💬 Ask me about: ML, Competitive Programming and Graphic Design.
 
-- 🌐 I am member of McCarthy Lab where I am exploring the field of Artificial Intelligence and reading about new technology. https://srmap.edu.in/next-tech-lab%E2%80%A8-2/
+- 🌐 I am member of McCarthy Lab where I am exploring the field of Artificial Intelligence and reading about new technology. https://bit.ly/3j0EA3A
 
-- 🤔 I’m on Twitter :https://twitter.com/rushu570
+- 🤔 I’m on Twitter: https://twitter.com/rushu570
 
 - ⚡ I am highly interested in startups and currently holding a position in Executive Board of Ennovab(https://ennovab.tech/)  : It is a Entrepreneurial Innovation Lab, aims to foster the innovative and entrepreneurial thinking in the young minds of student entrepreneurs.
 
