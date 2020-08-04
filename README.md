@@ -23,7 +23,7 @@
   - 🌐 I am member of McCarthy Lab where I am exploring the field of Artificial Intelligence and reading about new technology. https://bit.ly/3j0EA3A
   
  
- - ⚡ I am highly interested in startups and currently holding a position in Executive Board of Ennovab(https://ennovab.tech/)  : It is a Entrepreneurial Innovation Lab, aims to foster the innovative and entrepreneurial thinking in the young minds of student entrepreneurs.
+ - ⚡ I am highly interested in startups and currently holding a position in Executive Board of Ennovab(https://ennovab.tech/)  : It is a Entrepreneurial Innovation Lab, aims      to foster the innovative and entrepreneurial thinking in the young minds of student entrepreneurs.
  
  
 
@@ -76,7 +76,7 @@ If you would like to discuss anything with me, you can reach out to me on [<img 
 ### 📶 Stats:
 
 
-<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=ChoukseyKhushbu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true) -->
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=rushu570&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true) -->
 
 
 
