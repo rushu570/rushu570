@@ -5,9 +5,6 @@
 
 -->
 
-<img src="https://komarev.com/ghpvc/?username=rahul7668gupta&label=Views&color=blue&style=plastic" alt="rushu570" />
-
-
 
 - 🔭 I’m Rushank.Thanks for dropping by! I am currently pursuing an undergraduate degree in the field of Computer Science from SRM UNIVERSITY-AP, Amaravati, Andhra Pradesh..
 
@@ -40,7 +37,13 @@
 - ⚡ Fun fact: I am interested in Politics ping me if you want to discuss any current issue.
 
 
-![](https://github-readme-stats.vercel.app/api?username=rushu570&show_icons=true&line_height=30)
+### 📶 Stats:
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=ChoukseyKhushbu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true) -->
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=rushu570&show_icons=true&theme=dracula&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushu570&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://profile-counter.glitch.me/rushu570/count.svg)
 
  ![](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
