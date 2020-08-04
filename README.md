@@ -14,11 +14,15 @@
 
 ### 🤔 What do I do? 
 
-- 🤟 I am an AI/ML enthusiast and interested in Competitive Programming.
+   - 🤟 I am an AI/ML enthusiast and interested in Competitive Programming.
+
+  - 🌐 I am member of McCarthy Lab where I am exploring the field of Artificial Intelligence and reading about new technology. https://bit.ly/3j0EA3A
+ 
+ - ⚡ I am highly interested in startups and currently holding a position in Executive Board of Ennovab(https://ennovab.tech/)  : It is a Entrepreneurial Innovation Lab, aims to foster the innovative and entrepreneurial thinking in the young minds of student entrepreneurs.
 
 ### 🌱 What I’m currently learning?
 
-- 🌱 I’m currently learning React Js
+ - Recently, I am working on front-end Library ReactJS and competitive programming skills.
 
 - 👯 I’m looking to collaborate on good Industry level projects in ML
 
@@ -30,12 +34,6 @@
 
 ### 👨🏻‍💻 Codeforces profile:
 - https://codeforces.com/profile/The_Night_king
-
-- 🌐 I am member of McCarthy Lab where I am exploring the field of Artificial Intelligence and reading about new technology. https://bit.ly/3j0EA3A
-
-
-
-- ⚡ I am highly interested in startups and currently holding a position in Executive Board of Ennovab(https://ennovab.tech/)  : It is a Entrepreneurial Innovation Lab, aims to foster the innovative and entrepreneurial thinking in the young minds of student entrepreneurs.
 
 ### Achievement
 
