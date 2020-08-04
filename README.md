@@ -5,6 +5,9 @@
 
 -->
 
+<img src="https://komarev.com/ghpvc/?username=rahul7668gupta&label=Views&color=blue&style=plastic" alt="rushu570" />
+<!--
+
 
 - 🔭 I’m Rushank.Thanks for dropping by! I am currently pursuing an undergraduate degree in the field of Computer Science from SRM UNIVERSITY-AP, Amaravati, Andhra Pradesh..
 
