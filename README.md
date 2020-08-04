@@ -76,10 +76,9 @@ If you would like to discuss anything with me, you can reach out to me on [<img 
 ### 📶 Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rushu570&show_icons=true&include_all_commits=true&theme=radical" alt="Rushank's github stats" />
 </a>
 
-![Rushank's github stats](https://github-readme-stats.vercel.app/api?username=rushu570&show_icons=true&theme=radical)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushu570&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
