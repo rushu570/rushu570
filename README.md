@@ -75,7 +75,7 @@ If you would like to discuss anything with me, you can reach out to me on [<img 
 
 ### 📶 Stats:
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=rushu570&show_icons=true&theme=dracula&count_private=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=rushu570&show_icons=true&theme=radical&count_private=true)
 
 
 
