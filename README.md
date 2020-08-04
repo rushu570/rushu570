@@ -79,7 +79,7 @@ If you would like to discuss anything with me, you can reach out to me on [<img 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushu570&theme=dark&hide_langs_below=1)
+![My github stats](https://github-readme-stats.vercel.app/api?username=ChoukseyKhushbu&show_icons=true&theme=dracula&count_private=true)
 
 
 
