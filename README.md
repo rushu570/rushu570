@@ -37,4 +37,7 @@
 - ⚡ Fun fact: I am interested in Politics ping me if you want to discuss any current issue.
 
 
+![](https://github-readme-stats.vercel.app/api?username=rushu570&show_icons=true&line_height=30)
+
+
  ![](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
