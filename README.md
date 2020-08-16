@@ -44,7 +44,7 @@
 
 ### 👨🏻‍💻 Codechef profile: 
 
-- https://www.codechef.com/users/rushank570
+- https://www.codechef.com/users/the_night_king
 
 
 ### 👨🏻‍💻 Codeforces profile:
