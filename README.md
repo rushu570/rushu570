@@ -64,10 +64,6 @@
 If you would like to discuss anything with me, you can reach out to me on [<img src="https://raw.githubusercontent.com/rushu570/rushu570/master/readme/linkedin-box-fill.svg" >](https://www.linkedin.com/in/rushank-jain/)  and  [<img src="https://raw.githubusercontent.com/rushu570/rushu570/master/readme/twitter-fill.svg" >](https://twitter.com/rushu570) 
 
 
-## 😄 Pronouns: 
-
-- he/him/his
-
 ### ⚡ Fun fact: 
 
 - I am interested in Politics ping me if you want to discuss any current issue.
