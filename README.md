@@ -30,7 +30,7 @@
 ### 🌱 What I’m currently learning?
 
 
- - Recently, I am working on front-end Library ReactJS and competitive programming skills.
+ - I am working on my competitive programming skills.
  
 
 - 👯 I’m looking to collaborate on good Industry level projects in ML
