@@ -10,8 +10,7 @@
 ### :sparkles: One line that describes me best?
 
 
-- 🔭 I’m Rushank.Thanks for dropping by! I am currently pursuing an undergraduate degree in the field of Computer Science from SRM UNIVERSITY-AP, Amaravati, Andhra Pradesh..
-
+- 🔭 I’m Rushank.Thanks for dropping by! I am currently working as a R&D Engineer at Samsung R&D Institute have had the opportunity to work on the 𝐑𝐚𝐝𝐢𝐨 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞 𝐋𝐚𝐲𝐞𝐫 (RIL) of a telecommunications system. In this role, I have gained experience with beginner-level concepts such as RIL services and have worked on maintaining RIL data components. I have also participated in 𝐬𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐝𝐞𝐛𝐮𝐠𝐠𝐢𝐧𝐠 problems related to RIL data functionality, including checking 𝐝𝐚𝐭𝐚 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧 and 𝐀𝐏𝐍 𝐥𝐨𝐚𝐝𝐢𝐧𝐠 and have had the opportunity to collaborate with cross-functional teams.
 
 
 ### 🤔 What do I do? 
@@ -42,6 +41,12 @@
 
 
 
+
+### 👨🏻‍💻 LeetCode profile: 
+
+- https://leetcode.com/rushu570/
+
+
 ### 👨🏻‍💻 Codechef profile: 
 
 - https://www.codechef.com/users/the_night_king
@@ -66,7 +71,7 @@ If you would like to discuss anything with me, you can reach out to me on [<img 
 
 ### ⚡ Fun fact: 
 
-- I am interested in Politics ping me if you want to discuss any current issue.
+- I am also interested in Geopolitics ping me if you want to discuss any current issue.
 
 
 ### 📶 Stats:
